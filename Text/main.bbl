@@ -1,0 +1,212 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{OpenPifPaf2021}
+\selectlanguageifdefined{english}
+\BibEmph{Kreiss,~Sven}. OpenPifPaf: Composite Fields for Semantic Keypoint
+  Detection and Spatio-Temporal Association~/ Sven~Kreiss, Lorenzo~Bertoni,
+  Alexandre~Alahi~// \BibEmph{IEEE Transactions on Intelligent Transportation
+  Systems}. ---
+\newblock 2022. ---
+\newblock Vol.~23, no.~8. ---
+\newblock Pp.~13498--13511.
+
+\bibitem{COCO_dataset}
+\selectlanguageifdefined{english}
+\BibEmph{Lin,~Tsung-Yi}. Microsoft COCO: Common Objects in Context. ---
+\newblock 2014. \BibUrl{ https://arxiv.org/abs/1405.0312}.
+
+\bibitem{COCO_topology}
+\selectlanguageifdefined{english}
+\BibEmph{Tsung-Yi~Lin~Matteo Ruggero~Ronchi,~Alexander~Kirillov}. COCO 2020
+  Keypoint Detection Task. ---
+\newblock \url{https://cocodataset.org/#keypoints-2020}.
+
+\bibitem{PDJR}
+\selectlanguageifdefined{english}
+Human Pose Estimation Using Body Parts Dependent Joint Regressors~/
+  Matthias~Dantone, Juergen~Gall, Christian~Leistner, Luc~Van~Gool~// 2013 IEEE
+  Conference on Computer Vision and Pattern Recognition. ---
+\newblock 2013. ---
+\newblock Pp.~3041--3048.
+
+\bibitem{DeepPose}
+\selectlanguageifdefined{english}
+\BibEmph{Toshev,~Alexander}. DeepPose: Human Pose Estimation via Deep Neural
+  Networks~/ Alexander~Toshev, Christian~Szegedy~// 2014 IEEE Conference on
+  Computer Vision and Pattern Recognition. ---
+\newblock 2014. ---
+\newblock Pp.~1653--1660.
+
+\bibitem{AlphaPose}
+\selectlanguageifdefined{english}
+{RMPE}: Regional Multi-person Pose Estimation~/ Hao-Shu~Fang, Shuqin~Xie,
+  Yu-Wing~Tai, Cewu~Lu~// ICCV. ---
+\newblock 2017.
+
+\bibitem{OpenPose}
+\selectlanguageifdefined{english}
+OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields~/
+  Z.~Cao, G.~Hidalgo~Martinez, T.~Simon et~al.~// \BibEmph{IEEE Transactions on
+  Pattern Analysis and Machine Intelligence}. ---
+\newblock 2019.
+
+\bibitem{mmpose2020}
+\selectlanguageifdefined{english}
+\BibEmph{Contributors,~MMPose}. OpenMMLab Pose Estimation Toolbox and
+  Benchmark. ---
+\newblock \url{https://github.com/open-mmlab/mmpose}. ---
+\newblock 2020.
+
+\bibitem{Zhang_2017_CVPR}
+\selectlanguageifdefined{english}
+Detailed, Accurate, Human Shape Estimation From Clothed 3D Scan Sequences~/
+  Chao~Zhang, Sergi~Pujades, Michael~J.~Black, Gerard~Pons-Moll~// The IEEE
+  Conference on Computer Vision and Pattern Recognition (CVPR). ---
+\newblock 2017. --- July.
+
+\bibitem{varol17_surreal}
+\selectlanguageifdefined{english}
+Learning from Synthetic Humans~/ G{\"u}l~Varol, Javier~Romero, Xavier~Martin
+  et~al.~// CVPR. ---
+\newblock 2017.
+
+\bibitem{WANG2021103225}
+\selectlanguageifdefined{english}
+Deep 3D human pose estimation: A review~/ Jinbao~Wang, Shujie~Tan,
+  Xiantong~Zhen et~al.~// \BibEmph{Computer Vision and Image Understanding}.
+  ---
+\newblock 2021. ---
+\newblock Vol. 210. ---
+\newblock P.~103225. \BibUrl{
+  https://www.sciencedirect.com/science/article/pii/S1077314221000692}.
+
+\bibitem{8100086}
+\selectlanguageifdefined{english}
+\BibEmph{Tome,~Denis}. Lifting from the Deep: Convolutional 3D Pose Estimation
+  from a Single Image~/ Denis~Tome, Chris~Russell, Lourdes~Agapito~// 2017 IEEE
+  Conference on Computer Vision and Pattern Recognition (CVPR). ---
+\newblock 2017. ---
+\newblock Pp.~5689--5698.
+
+\bibitem{WHITTLE1996369}
+\selectlanguageifdefined{english}
+\BibEmph{Whittle,~Michael~W.} Clinical gait analysis: A review~/
+  Michael~W.~Whittle~// \BibEmph{Human Movement Science}. ---
+\newblock 1996. ---
+\newblock Vol.~15, no.~3. ---
+\newblock Pp.~369--387. \BibUrl{
+  https://www.sciencedirect.com/science/article/pii/0167945796000061}.
+
+\bibitem{counter}
+\selectlanguageifdefined{english}
+\BibEmph{google.github.io}. Pose Classification. ---
+\newblock
+  \url{https://google.github.io/mediapipe/solutions/pose_classification.html}.
+
+\bibitem{8765346}
+\selectlanguageifdefined{english}
+OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields~/
+  Z.~{Cao}, G.~{Hidalgo Martinez}, T.~{Simon} et~al.~// \BibEmph{IEEE
+  Transactions on Pattern Analysis and Machine Intelligence}. ---
+\newblock 2019.
+
+\bibitem{https://doi.org/10.48550/arxiv.1807.04067}
+\selectlanguageifdefined{english}
+\BibEmph{Kocabas,~Muhammed}. MultiPoseNet: Fast Multi-Person Pose Estimation
+  using Pose Residual Network. ---
+\newblock 2018. \BibUrl{ https://arxiv.org/abs/1807.04067}.
+
+\bibitem{h36m_pami}
+\selectlanguageifdefined{english}
+Human3.6M: Large Scale Datasets and Predictive Methods for 3D Human Sensing in
+  Natural Environments~/ Catalin~Ionescu, Dragos~Papava, Vlad~Olaru,
+  Cristian~Sminchisescu~// \BibEmph{IEEE Transactions on Pattern Analysis and
+  Machine Intelligence}. ---
+\newblock 2014. --- jul. ---
+\newblock Vol.~36, no.~7. ---
+\newblock Pp.~1325--1339.
+
+\bibitem{s20174944}
+\selectlanguageifdefined{english}
+Prediction of Human Activities Based on a New Structure of Skeleton Features
+  and Deep Learning Model~/ Neziha~Jaouedi, Francisco~J.~Perales,
+  José~Maria~Buades et~al.~// \BibEmph{Sensors}. ---
+\newblock 2020. ---
+\newblock Vol.~20, no.~17. \BibUrl{ https://www.mdpi.com/1424-8220/20/17/4944}.
+
+\bibitem{li2020pastanet}
+\selectlanguageifdefined{english}
+PaStaNet: Toward Human Activity Knowledge Engine~/ Yong-Lu~Li, Liang~Xu,
+  Xinpeng~Liu et~al.~// CVPR. ---
+\newblock 2020.
+
+\bibitem{BlazePose}
+\selectlanguageifdefined{english}
+\BibEmph{Bazarevsky,~Valentin}. BlazePose: On-device Real-time Body Pose
+  tracking. ---
+\newblock 2020. \BibUrl{ https://arxiv.org/abs/2006.10204}.
+
+\bibitem{BlazeFace}
+\selectlanguageifdefined{english}
+\BibEmph{Bazarevsky,~Valentin}. BlazeFace: Sub-millisecond Neural Face
+  Detection on Mobile GPUs. ---
+\newblock 2019. \BibUrl{ https://arxiv.org/abs/1907.05047}.
+
+\bibitem{Hands}
+\selectlanguageifdefined{english}
+\BibEmph{Zhang,~Fan}. MediaPipe Hands: On-device Real-time Hand Tracking. ---
+\newblock 2020. \BibUrl{ https://arxiv.org/abs/2006.10214}.
+
+\bibitem{Holistic}
+\selectlanguageifdefined{english}
+\BibEmph{Ivan~Grishchenko,~Valentin~Bazarevsky}. MediaPipe Holistic —
+  Simultaneous Face, Hand and Pose Prediction, on Device. ---
+\newblock
+  \url{https://ai.googleblog.com/2020/12/mediapipe-holistic-simultaneous-face.html}.
+
+\bibitem{mediapipe}
+\selectlanguageifdefined{english}
+\BibEmph{google.github.io}. MediaPipe.Home. ---
+\newblock \url{https://google.github.io/mediapipe/}.
+
+\bibitem{mobilenetv2}
+\selectlanguageifdefined{english}
+\BibEmph{Sandler,~Mark}. MobileNetV2: Inverted Residuals and Linear
+  Bottlenecks. ---
+\newblock 2019.
+
+\bibitem{MPII_dataset}
+\selectlanguageifdefined{english}
+2D Human Pose Estimation: New Benchmark and State of the Art Analysis~/
+  Mykhaylo~Andriluka, Leonid~Pishchulin, Peter~Gehler, Bernt~Schiele~// IEEE
+  Conference on Computer Vision and Pattern Recognition (CVPR). ---
+\newblock 2014. --- June.
+
+\bibitem{LSP}
+\selectlanguageifdefined{english}
+\BibEmph{Johnson,~Sam}. Clustered Pose and Nonlinear Appearance Models for
+  Human Pose Estimation~/ Sam~Johnson, Mark~Everingham~// Proceedings of the
+  British Machine Vision Conference. ---
+\newblock 2010. ---
+\newblock doi:10.5244/C.24.12.
+
+\bibitem{simon2017hand}
+\selectlanguageifdefined{english}
+Hand Keypoint Detection in Single Images using Multiview Bootstrapping~/
+  Tomas~Simon, Hanbyul~Joo, Iain~Matthews, Yaser~Sheikh~// CVPR. ---
+\newblock 2017.
+
+\bibitem{wei2016cpm}
+\selectlanguageifdefined{english}
+Convolutional pose machines~/ Shih-En~Wei, Varun~Ramakrishna, Takeo~Kanade,
+  Yaser~Sheikh~// CVPR. ---
+\newblock 2016.
+
+\end{thebibliography}
