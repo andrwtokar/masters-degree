@@ -7,6 +7,37 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
+\bibitem{fifaOffside}
+\selectlanguageifdefined{english}
+\BibEmph{FIFA}. Semi-automated offside technology to be used at FIFA World Cup
+  2022. ---
+\newblock
+  \url{https://www.fifa.com/fifaplus/en/articles/semi-automated-offside-technology-to-be-used-at-fifa-world-cup-2022-tm}.
+  ---
+\newblock 2022.
+
+\bibitem{IEEETennis}
+\selectlanguageifdefined{english}
+Player pose analysis in tennis video based on pose estimation~/
+  Ryunosuke~Kurose, Masaki~Hayashi, Takeo~Ishii, Yoshimitsu~Aoki~// 2018
+  International Workshop on Advanced Image Technology (IWAIT). ---
+\newblock 2018. ---
+\newblock Pp.~1--4.
+
+\bibitem{tennisTrener}
+\selectlanguageifdefined{english}
+\BibEmph{Thorpe,~James}. Pose estimation: utilising AI to improve tennis
+  technique. ---
+\newblock
+  \url{https://sportretina.com/blog/pose-estimation-utilising-ai-to-improve-tennis-technique/}.
+  ---
+\newblock 2023.
+
+\bibitem{mediapipe}
+\selectlanguageifdefined{english}
+\BibEmph{google.github.io}. MediaPipe.Home. ---
+\newblock \url{https://google.github.io/mediapipe/}.
+
 \bibitem{OpenPifPaf2021}
 \selectlanguageifdefined{english}
 \BibEmph{Kreiss,~Sven}. OpenPifPaf: Composite Fields for Semantic Keypoint
@@ -171,11 +202,6 @@ PaStaNet: Toward Human Activity Knowledge Engine~/ Yong-Lu~Li, Liang~Xu,
 \newblock
   \url{https://ai.googleblog.com/2020/12/mediapipe-holistic-simultaneous-face.html}.
 
-\bibitem{mediapipe}
-\selectlanguageifdefined{english}
-\BibEmph{google.github.io}. MediaPipe.Home. ---
-\newblock \url{https://google.github.io/mediapipe/}.
-
 \bibitem{mobilenetv2}
 \selectlanguageifdefined{english}
 \BibEmph{Sandler,~Mark}. MobileNetV2: Inverted Residuals and Linear
@@ -208,5 +234,13 @@ Hand Keypoint Detection in Single Images using Multiview Bootstrapping~/
 Convolutional pose machines~/ Shih-En~Wei, Varun~Ramakrishna, Takeo~Kanade,
   Yaser~Sheikh~// CVPR. ---
 \newblock 2016.
+
+\bibitem{electronics9030427}
+\selectlanguageifdefined{english}
+Deep Learning Models for Classification of Red Blood Cells in Microscopy Images
+  to Aid in Sickle Cell Anemia Diagnosis~/ Laith~Alzubaidi, Mohammed~A.~Fadhel,
+  Omran~Al-Shamma et~al.~// \BibEmph{Electronics}. ---
+\newblock 2020. ---
+\newblock Vol.~9, no.~3. \BibUrl{ https://www.mdpi.com/2079-9292/9/3/427}.
 
 \end{thebibliography}

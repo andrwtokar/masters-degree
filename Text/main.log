@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.26)  30 MAY 2024 00:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.26)  2 JUN 2024 00:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1187,7 +1187,7 @@ LaTeX Info: Redefining \nameref on input line 13.
 \openout4 = `main.out'.
 
  (./include/title.tex
-<images//MIPT_logo.jpg, id=144, 803.0pt x 401.5pt>
+<images//MIPT_logo.jpg, id=140, 803.0pt x 401.5pt>
 File: images//MIPT_logo.jpg Graphic file (type jpg)
 <use images//MIPT_logo.jpg>
 Package pdftex.def Info: images//MIPT_logo.jpg  used on input line 45.
@@ -1309,6 +1309,10 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
 [6]
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 27.11469pt, for example:
@@ -1317,7 +1321,7 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[7]) (./parts/Chapter1.tex
+[7]
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 27.11469pt, for example:
@@ -1326,7 +1330,7 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[8]) (./parts/Chapter2.tex
+[8]) (./parts/Chapter1.tex
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 27.11469pt, for example:
@@ -1335,14 +1339,23 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[9]
-<./images/plugins_animalpose.png, id=234, 500.8311pt x 375.44266pt>
+[9]) (./parts/Chapter2.tex
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 27.11469pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.11469pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
+
+[10]
+<./images/plugins_animalpose.png, id=245, 500.8311pt x 375.44266pt>
 File: ./images/plugins_animalpose.png Graphic file (type png)
 <use ./images/plugins_animalpose.png>
 Package pdftex.def Info: ./images/plugins_animalpose.png  used on input line 27
 .
 (pdftex.def)             Requested size: 218.51521pt x 163.80318pt.
-<./images/car_topology.jpg, id=236, 544.0325pt x 351.3125pt>
+<./images/car_topology.jpg, id=247, 544.0325pt x 351.3125pt>
 File: ./images/car_topology.jpg Graphic file (type jpg)
 <use ./images/car_topology.jpg>
 Package pdftex.def Info: ./images/car_topology.jpg  used on input line 32.
@@ -1359,7 +1372,7 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[10]
+[11]
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 27.11469pt, for example:
@@ -1368,25 +1381,25 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[11 <./images/plugins_animalpose.png> <./images/car_topology.jpg>]
-<./images/regpose_topology.png, id=259, 195.73125pt x 336.25626pt>
+[12 <./images/plugins_animalpose.png> <./images/car_topology.jpg>]
+<./images/regpose_topology.png, id=270, 195.73125pt x 336.25626pt>
 File: ./images/regpose_topology.png Graphic file (type png)
 <use ./images/regpose_topology.png>
 Package pdftex.def Info: ./images/regpose_topology.png  used on input line 52.
 (pdftex.def)             Requested size: 72.84071pt x 125.1363pt.
-<./images/deeppose_topology.png, id=262, 317.185pt x 288.07625pt>
+<./images/deeppose_topology.png, id=273, 317.185pt x 288.07625pt>
 File: ./images/deeppose_topology.png Graphic file (type png)
 <use ./images/deeppose_topology.png>
 Package pdftex.def Info: ./images/deeppose_topology.png  used on input line 57.
 
 (pdftex.def)             Requested size: 136.57462pt x 124.0418pt.
-<./images/alphapose_topology.png, id=265, 331.2375pt x 196.735pt>
+<./images/alphapose_topology.png, id=276, 331.2375pt x 196.735pt>
 File: ./images/alphapose_topology.png Graphic file (type png)
 <use ./images/alphapose_topology.png>
 Package pdftex.def Info: ./images/alphapose_topology.png  used on input line 62
 .
 (pdftex.def)             Requested size: 207.1369pt x 123.0251pt.
-<./images/coco_topology.png, id=268, 629.35126pt x 854.19125pt>
+<./images/coco_topology.png, id=279, 629.35126pt x 854.19125pt>
 File: ./images/coco_topology.png Graphic file (type png)
 <use ./images/coco_topology.png>
 Package pdftex.def Info: ./images/coco_topology.png  used on input line 71.
@@ -1404,7 +1417,7 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[12 <./images/regpose_topology.png> <./images/deeppose_topology.png> <./images/
+[13 <./images/regpose_topology.png> <./images/deeppose_topology.png> <./images/
 alphapose_topology.png> <./images/coco_topology.png>]
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
@@ -1414,7 +1427,7 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[13]
+[14]
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 27.11469pt, for example:
@@ -1423,16 +1436,16 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[14]) (./parts/Chapter3.tex
+[15]) (./parts/Chapter3.tex
+<./images/TL_medium.jpg, id=305, 963.6pt x 542.025pt>
+File: ./images/TL_medium.jpg Graphic file (type jpg)
+<use ./images/TL_medium.jpg>
+Package pdftex.def Info: ./images/TL_medium.jpg  used on input line 14.
+(pdftex.def)             Requested size: 409.71692pt x 230.46095pt.
 
-Package fancyhdr Warning: \headheight is too small (14.0pt): 
-(fancyhdr)                Make it at least 27.11469pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11469pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[15]
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 27.11469pt, for example:
@@ -1450,8 +1463,17 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[17]) (./parts/Chapter4.tex
-Overfull \hbox (0.33098pt too wide) in paragraph at lines 20--21
+[17 <./images/TL_medium.jpg>]
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 27.11469pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.11469pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
+
+[18]) (./parts/Chapter4.tex
+Overfull \hbox (0.33098pt too wide) in paragraph at lines 17--18
 []\T2A/cmr/m/n/14.4 Ïîêàçàëà õî-ðî-øèå ðå-çóëü-òà-òû ïðè ïðåäû-äó-ùèõ ñðàâ-íå-í
 è-ÿõ. Èñ-ïîëü-
  []
@@ -1464,13 +1486,13 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[18]
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
 
-Overfull \hbox (1.89113pt too wide) in paragraph at lines 44--45
+Overfull \hbox (1.89113pt too wide) in paragraph at lines 41--42
 []\T2A/cmr/m/n/14.4 ÎÁÇÎÐ ÄÀËÜ-ÍÅÉ-ØÈÕ ÐÅ-ØÅ-ÍÈÉ ÏÎ-ÇÛ ÏÎÄ ÁÎËÜ-ØÈÌ ÂÎ-
  []
 
@@ -1482,25 +1504,11 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[19]
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
-
- []
-
-
-Overfull \hbox (6.45514pt too wide) in paragraph at lines 77--78
-[]\T2A/cmr/m/n/14.4 ÏÐÈ ÍÅÕÂÀÒ-ÊÅ ÂÐÅ-ÌÅ-ÍÈ ÌÎÆ-ÍÎ ÁÓ-ÄÅÒ ÎÑÒÀ-ÂÈÒÜ ÒÎËÜ-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (14.0pt): 
-(fancyhdr)                Make it at least 27.11469pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11469pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
-
 [20]
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 27.11469pt, for example:
@@ -1527,7 +1535,7 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[23]) (./parts/Chapter6.tex
+[23]
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 27.11469pt, for example:
@@ -1536,125 +1544,68 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[24]) (./main.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 12--19
+[24]
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 27.11469pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.11469pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
+
+[25]) (./parts/Chapter6.tex
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 27.11469pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.11469pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
+
+[26]) (./main.bbl
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+15.
+ (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Underfull \hbox (badness 3861) in paragraph at lines 12--18
+\T2A/cmr/m/n/14.4 Cup 2022. ---  []$\T2A/cmtt/m/n/14.4 https : / / www . fifa .
+ com / fifaplus / en / articles /
+ []
+
+
+Overfull \hbox (93.33669pt too wide) in paragraph at lines 12--18
+\T2A/cmtt/m/n/14.4 semi-[]automated-[]offside-[]technology-[]to-[]be-[]used-[]a
+t-[]fifa-[]world-[]cup-[]2022-[]tm$[]\T2A/cmr/m/n/14.4 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--35
+[]\T2A/cmr/m/it/14.4 Thorpe, James\T2A/cmr/m/n/14.4 . Pose estimation: utilisin
+g AI to improve
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--35
+\T2A/cmr/m/n/14.4 tennis technique. ---  []$\T2A/cmtt/m/n/14.4 https : / / spor
+tretina . com / blog /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--35
+\T2A/cmtt/m/n/14.4 pose-[]estimation-[]utilising-[]ai-[]to-[]improve-[]tennis-[
+]technique/$[]\T2A/cmr/m/n/14.4 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--50
 \T2A/cmr/m/n/14.4 Detection and Spatio-Temporal Association / Sven Kreiss,
  []
 
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-23.
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-Underfull \hbox (badness 2221) in paragraph at lines 27--30
+
+Underfull \hbox (badness 2221) in paragraph at lines 58--61
 \T2A/cmr/m/n/14.4 2020 Keypoint Detection Task. ---  []$\T2A/cmtt/m/n/14.4 http
 s : / / cocodataset . org /
- []
-
-
-Underfull \hbox (badness 1484) in paragraph at lines 41--46
-\T2A/cmr/m/n/14.4 Networks / Alexander Toshev, Christian Szegedy // 2014 IEEE
- []
-
-
-Underfull \hbox (badness 1348) in paragraph at lines 49--52
-[]\T2A/cmr/m/n/14.4 RMPE: Regional Multi-person Pose Estimation / Hao-Shu Fang,
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (14.0pt): 
-(fancyhdr)                Make it at least 27.11469pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11469pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
-
-[25]
-Underfull \hbox (badness 2591) in paragraph at lines 76--79
-[]\T2A/cmr/m/n/14.4 Learning from Synthetic Humans / G^^Dul Varol, Javier Romer
-o,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--106
-[]\T2A/cmr/m/it/14.4 Whittle, Michael W. \T2A/cmr/m/n/14.4 Clinical gait analys
-is: A review /
- []
-
-
-Underfull \hbox (badness 1005) in paragraph at lines 100--106
-\T2A/cmr/m/n/14.4 Michael W. Whittle // \T2A/cmr/m/it/14.4 Human Movement Scien
-ce\T2A/cmr/m/n/14.4 . ---  1996. ---
- []
-
-
-Underfull \hbox (badness 3396) in paragraph at lines 128--135
-[]\T2A/cmr/m/n/14.4 Human3.6M: Large Scale Datasets and Predictive Methods for
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 128--135
-\T2A/cmr/m/n/14.4 3D Human Sensing in Natural Environments / Catalin Ionescu,
- []
-
-
-Underfull \hbox (badness 7433) in paragraph at lines 128--135
-\T2A/cmr/m/n/14.4 Dragos Papava, Vlad Olaru, Cristian Sminchisescu // \T2A/cmr/
-m/it/14.4 IEEE
- []
-
-
-Package fancyhdr Warning: \headheight is too small (14.0pt): 
-(fancyhdr)                Make it at least 27.11469pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11469pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
-
-[26]
-Underfull \hbox (badness 2837) in paragraph at lines 138--143
-[]\T2A/cmr/m/n/14.4 Prediction of Human Activities Based on a New Structure of
- []
-
-
-Underfull \hbox (badness 2173) in paragraph at lines 138--143
-\T2A/cmr/m/n/14.4 Skeleton Features and Deep Learning Model / Neziha Jaouedi,
- []
-
-
-Underfull \hbox (badness 1783) in paragraph at lines 152--155
-[]\T2A/cmr/m/it/14.4 Bazarevsky, Valentin\T2A/cmr/m/n/14.4 . BlazePose: On-devi
-ce Real-time Body Pose
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--173
-[]\T2A/cmr/m/it/14.4 Ivan Grishchenko, Valentin Bazarevsky\T2A/cmr/m/n/14.4 . M
-ediaPipe Holistic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--173
-\T2A/cmr/m/n/14.4 ^^V Simultaneous Face, Hand and Pose Prediction, on
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--173
-\T2A/cmr/m/n/14.4 Device. ---  []$\T2A/cmtt/m/n/14.4 https : / / ai . googleblo
-g . com / 2020 / 12 /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 181--184
-[]\T2A/cmr/m/it/14.4 Sandler, Mark\T2A/cmr/m/n/14.4 . MobileNetV2: Inverted Res
-iduals and Linear
- []
-
-
-Underfull \hbox (badness 1043) in paragraph at lines 187--191
-\T2A/cmr/m/n/14.4 Analysis / Mykhaylo Andriluka, Leonid Pishchulin, Peter Gehle
-r,
  []
 
 
@@ -1666,13 +1617,138 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
 [27]
-Underfull \hbox (badness 10000) in paragraph at lines 202--205
+Underfull \hbox (badness 1484) in paragraph at lines 72--77
+\T2A/cmr/m/n/14.4 Networks / Alexander Toshev, Christian Szegedy // 2014 IEEE
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 80--83
+[]\T2A/cmr/m/n/14.4 RMPE: Regional Multi-person Pose Estimation / Hao-Shu Fang,
+
+ []
+
+
+Underfull \hbox (badness 2591) in paragraph at lines 107--110
+[]\T2A/cmr/m/n/14.4 Learning from Synthetic Humans / G^^Dul Varol, Javier Romer
+o,
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 27.11469pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.11469pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 131--137
+[]\T2A/cmr/m/it/14.4 Whittle, Michael W. \T2A/cmr/m/n/14.4 Clinical gait analys
+is: A review /
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 131--137
+\T2A/cmr/m/n/14.4 Michael W. Whittle // \T2A/cmr/m/it/14.4 Human Movement Scien
+ce\T2A/cmr/m/n/14.4 . ---  1996. ---
+ []
+
+
+Underfull \hbox (badness 3396) in paragraph at lines 159--166
+[]\T2A/cmr/m/n/14.4 Human3.6M: Large Scale Datasets and Predictive Methods for
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 159--166
+\T2A/cmr/m/n/14.4 3D Human Sensing in Natural Environments / Catalin Ionescu,
+ []
+
+
+Underfull \hbox (badness 7433) in paragraph at lines 159--166
+\T2A/cmr/m/n/14.4 Dragos Papava, Vlad Olaru, Cristian Sminchisescu // \T2A/cmr/
+m/it/14.4 IEEE
+ []
+
+
+Underfull \hbox (badness 2837) in paragraph at lines 169--174
+[]\T2A/cmr/m/n/14.4 Prediction of Human Activities Based on a New Structure of
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 169--174
+\T2A/cmr/m/n/14.4 Skeleton Features and Deep Learning Model / Neziha Jaouedi,
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 27.11469pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.11469pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
+
+[29]
+Underfull \hbox (badness 1783) in paragraph at lines 183--186
+[]\T2A/cmr/m/it/14.4 Bazarevsky, Valentin\T2A/cmr/m/n/14.4 . BlazePose: On-devi
+ce Real-time Body Pose
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--204
+[]\T2A/cmr/m/it/14.4 Ivan Grishchenko, Valentin Bazarevsky\T2A/cmr/m/n/14.4 . M
+ediaPipe Holistic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--204
+\T2A/cmr/m/n/14.4 ^^V Simultaneous Face, Hand and Pose Prediction, on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--204
+\T2A/cmr/m/n/14.4 Device. ---  []$\T2A/cmtt/m/n/14.4 https : / / ai . googleblo
+g . com / 2020 / 12 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--210
+[]\T2A/cmr/m/it/14.4 Sandler, Mark\T2A/cmr/m/n/14.4 . MobileNetV2: Inverted Res
+iduals and Linear
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 213--217
+\T2A/cmr/m/n/14.4 Analysis / Mykhaylo Andriluka, Leonid Pishchulin, Peter Gehle
+r,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--231
 []\T2A/cmr/m/n/14.4 Hand Keypoint Detection in Single Images using Multiview
  []
 
 
-Underfull \hbox (badness 5787) in paragraph at lines 202--205
+Underfull \hbox (badness 5787) in paragraph at lines 228--231
 \T2A/cmr/m/n/14.4 Bootstrapping / Tomas Simon, Hanbyul Joo, Iain Matthews,
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 27.11469pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.11469pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
+
+[30]
+Underfull \hbox (badness 1867) in paragraph at lines 240--245
+[]\T2A/cmr/m/n/14.4 Deep Learning Models for Classification of Red Blood Cells 
+in
+ []
+
+
+Underfull \hbox (badness 3108) in paragraph at lines 240--245
+\T2A/cmr/m/n/14.4 Microscopy Images to Aid in Sickle Cell Anemia Diagnosis /
  []
 
 )
@@ -1684,18 +1760,18 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[28] (./main.aux)
+[31] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: BEAA1B48836AE00E825F46C9ADDDD934;6146.
+(rerunfilecheck)             Checksum: F92B72E17505C18B1AE5B04580962661;5948.
  ) 
 Here is how much of TeX's memory you used:
- 27407 strings out of 478287
- 508028 string characters out of 5849289
- 776467 words of memory out of 5000000
- 44920 multiletter control sequences out of 15000+600000
+ 27433 strings out of 478287
+ 508407 string characters out of 5849289
+ 776920 words of memory out of 5000000
+ 44932 multiletter control sequences out of 15000+600000
  483412 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,12n,92p,2029b,542s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1709,10 +1785,10 @@ m-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb
 onts/type1/public/cm-super/sfti1440.pfb></usr/share/texmf/fonts/type1/public/cm
 -super/sfti1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1440.pfb>
 
-Output written on main.pdf (28 pages, 905896 bytes).
+Output written on main.pdf (31 pages, 948678 bytes).
 PDF statistics:
- 458 PDF objects out of 1000 (max. 8388607)
- 394 compressed objects within 4 object streams
- 102 named destinations out of 1000 (max. 500000)
- 340 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 498 PDF objects out of 1000 (max. 8388607)
+ 429 compressed objects within 5 object streams
+ 115 named destinations out of 1000 (max. 500000)
+ 337 words of extra memory for PDF output out of 10000 (max. 10000000)
 
