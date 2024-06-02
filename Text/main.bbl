@@ -243,4 +243,13 @@ Deep Learning Models for Classification of Red Blood Cells in Microscopy Images
 \newblock 2020. ---
 \newblock Vol.~9, no.~3. \BibUrl{ https://www.mdpi.com/2079-9292/9/3/427}.
 
+\bibitem{IEEE_DA}
+\selectlanguageifdefined{english}
+Domain Adaptation: Challenges, Methods, Datasets, and Applications~/
+  Peeyush~Singhal, Rahee~Walambe, Sheela~Ramanna, Ketan~Kotecha~//
+  \BibEmph{IEEE Access}. ---
+\newblock 2023. ---
+\newblock Vol.~11. ---
+\newblock Pp.~6973--7020.
+
 \end{thebibliography}
