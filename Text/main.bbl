@@ -252,4 +252,10 @@ Domain Adaptation: Challenges, Methods, Datasets, and Applications~/
 \newblock Vol.~11. ---
 \newblock Pp.~6973--7020.
 
+\bibitem{pose_markup}
+\selectlanguageifdefined{english}
+\BibEmph{Tokarew,~Andrey}. Полуавтоматическая система
+  разметки ключевых точек. ---
+\newblock \url{https://github.com/andrwtokar/pose-markup}.
+
 \end{thebibliography}

@@ -7,13 +7,13 @@
 \contentsline {section}{\numberline {4}Domain Adaptation}{15}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Перенос знаний}{15}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Основные определения}{17}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Классификация методов доменной адаптации}{20}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.3}Классификация методов доменной адаптации}{19}{subsection.4.3}%
 \contentsline {section}{\numberline {5}Обзор существующих решений}{24}{section.5}%
 \contentsline {subsection}{\numberline {5.1}Обзор моделей для распознавания КТ}{24}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Анализ и выбор методов доменной адаптации}{25}{subsection.5.2}%
-\contentsline {section}{\numberline {6}Эксперимент}{27}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Описание эксперимента}{27}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Данные}{29}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Результаты эксперимента}{30}{subsection.6.3}%
-\contentsline {section}{\numberline {7}Заключение}{31}{section.7}%
-\contentsline {section}{Список литературы}{32}{section*.28}%
+\contentsline {subsection}{\numberline {5.2}Анализ и выбор методов доменной адаптации}{27}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Эксперимент}{29}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Описание эксперимента}{29}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Данные}{31}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Результаты эксперимента}{34}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Заключение}{35}{section.7}%
+\contentsline {section}{Список литературы}{36}{section*.31}%
