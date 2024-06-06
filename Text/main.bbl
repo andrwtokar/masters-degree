@@ -101,6 +101,39 @@ Deep High-Resolution Representation Learning for Human Pose Estimation~/
   tracking. ---
 \newblock 2020. \BibUrl{ https://arxiv.org/abs/2006.10204}.
 
+\bibitem{vitpose}
+\selectlanguageifdefined{english}
+Vi{TP}ose: Simple Vision Transformer Baselines for Human Pose Estimation~/
+  Yufei~Xu, Jing~Zhang, Qiming~Zhang, Dacheng~Tao~// Advances in Neural
+  Information Processing Systems. ---
+\newblock 2022.
+
+\bibitem{vit}
+\selectlanguageifdefined{english}
+\BibEmph{Dosovitskiy,~Alexey}. An Image is Worth 16x16 Words: Transformers for
+  Image Recognition at Scale. ---
+\newblock 2021.
+
+\bibitem{simcc}
+\selectlanguageifdefined{english}
+\BibEmph{Li,~Yanjie}. SimCC: a Simple Coordinate Classification Perspective for
+  Human Pose Estimation. ---
+\newblock 2021.
+
+\bibitem{pul}
+\selectlanguageifdefined{english}
+\BibEmph{Wu,~Qiangqiang}. Progressive Unsupervised Learning for Visual Object
+  Tracking~/ Qiangqiang~Wu, Jia~Wan, Antoni~B.~Chan~// 2021 IEEE/CVF Conference
+  on Computer Vision and Pattern Recognition (CVPR). ---
+\newblock 2021. ---
+\newblock Pp.~2992--3001.
+
+\bibitem{pul_person}
+\selectlanguageifdefined{english}
+\BibEmph{Fan,~Hehe}. Unsupervised Person Re-identification: Clustering and
+  Fine-tuning. ---
+\newblock 2017.
+
 \bibitem{pose_markup}
 \selectlanguageifdefined{english}
 \BibEmph{Tokarew,~Andrey}. Полуавтоматическая система
@@ -113,65 +146,6 @@ Deep High-Resolution Representation Learning for Human Pose Estimation~/
   Benchmark. ---
 \newblock \url{https://github.com/open-mmlab/mmpose}. ---
 \newblock 2020.
-
-\bibitem{Zhang_2017_CVPR}
-\selectlanguageifdefined{english}
-Detailed, Accurate, Human Shape Estimation From Clothed 3D Scan Sequences~/
-  Chao~Zhang, Sergi~Pujades, Michael~J.~Black, Gerard~Pons-Moll~// The IEEE
-  Conference on Computer Vision and Pattern Recognition (CVPR). ---
-\newblock 2017. --- July.
-
-\bibitem{varol17_surreal}
-\selectlanguageifdefined{english}
-Learning from Synthetic Humans~/ G{\"u}l~Varol, Javier~Romero, Xavier~Martin
-  et~al.~// CVPR. ---
-\newblock 2017.
-
-\bibitem{WANG2021103225}
-\selectlanguageifdefined{english}
-Deep 3D human pose estimation: A review~/ Jinbao~Wang, Shujie~Tan,
-  Xiantong~Zhen et~al.~// \BibEmph{Computer Vision and Image Understanding}.
-  ---
-\newblock 2021. ---
-\newblock Vol. 210. ---
-\newblock P.~103225. \BibUrl{
-  https://www.sciencedirect.com/science/article/pii/S1077314221000692}.
-
-\bibitem{8100086}
-\selectlanguageifdefined{english}
-\BibEmph{Tome,~Denis}. Lifting from the Deep: Convolutional 3D Pose Estimation
-  from a Single Image~/ Denis~Tome, Chris~Russell, Lourdes~Agapito~// 2017 IEEE
-  Conference on Computer Vision and Pattern Recognition (CVPR). ---
-\newblock 2017. ---
-\newblock Pp.~5689--5698.
-
-\bibitem{WHITTLE1996369}
-\selectlanguageifdefined{english}
-\BibEmph{Whittle,~Michael~W.} Clinical gait analysis: A review~/
-  Michael~W.~Whittle~// \BibEmph{Human Movement Science}. ---
-\newblock 1996. ---
-\newblock Vol.~15, no.~3. ---
-\newblock Pp.~369--387. \BibUrl{
-  https://www.sciencedirect.com/science/article/pii/0167945796000061}.
-
-\bibitem{counter}
-\selectlanguageifdefined{english}
-\BibEmph{google.github.io}. Pose Classification. ---
-\newblock
-  \url{https://google.github.io/mediapipe/solutions/pose_classification.html}.
-
-\bibitem{8765346}
-\selectlanguageifdefined{english}
-OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields~/
-  Z.~{Cao}, G.~{Hidalgo Martinez}, T.~{Simon} et~al.~// \BibEmph{IEEE
-  Transactions on Pattern Analysis and Machine Intelligence}. ---
-\newblock 2019.
-
-\bibitem{mobilenetv2}
-\selectlanguageifdefined{english}
-\BibEmph{Sandler,~Mark}. MobileNetV2: Inverted Residuals and Linear
-  Bottlenecks. ---
-\newblock 2019.
 
 \bibitem{MPII_dataset}
 \selectlanguageifdefined{english}
