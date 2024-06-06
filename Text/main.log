@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.26)  6 JUN 2024 16:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.26)  7 JUN 2024 02:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1689,6 +1689,12 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
 [32 <./images/yolo_pose.png>]
+<./images/rtmpose.png, id=405, 1592.95125pt x 401.5pt>
+File: ./images/rtmpose.png Graphic file (type png)
+<use ./images/rtmpose.png>
+Package pdftex.def Info: ./images/rtmpose.png  used on input line 139.
+(pdftex.def)             Requested size: 455.24411pt x 114.74112pt.
+
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 27.11469pt, for example:
@@ -1697,14 +1703,23 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[33]
-<./images/pul.png, id=412, 929.4725pt x 456.70625pt>
+[33 <./images/rtmpose.png>]
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 27.11469pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.11469pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
+
+[34]
+<./images/pul.png, id=429, 929.4725pt x 456.70625pt>
 File: ./images/pul.png Graphic file (type png)
 <use ./images/pul.png>
-Package pdftex.def Info: ./images/pul.png  used on input line 153.
+Package pdftex.def Info: ./images/pul.png  used on input line 165.
 (pdftex.def)             Requested size: 364.19667pt x 178.95096pt.
 
-Overfull \hbox (21.69551pt too wide) in paragraph at lines 168--170
+Overfull \hbox (21.69551pt too wide) in paragraph at lines 180--182
 \T2A/cmr/m/n/14.4 Модель мо-жет зна-чи-тель-но оши-бать-ся в пред-ска-за-нии пс
 евдо-разметки,
  []
@@ -1717,14 +1732,17 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[34 <./images/pul.png>]
-Overfull \hbox (0.88255pt too wide) in paragraph at lines 175--176
-[]\T2A/cmr/m/n/14.4 Маркером оцен-ки ите-ра-тив-но-го про-цес-са сле-ду-ет рас-
-смат-ри-вать тре-
- []
+[35 <./images/pul.png>]
 
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 27.11469pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.11469pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--184
+(fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
  []
 
@@ -1736,16 +1754,7 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[35]
-
-Package fancyhdr Warning: \headheight is too small (14.0pt): 
-(fancyhdr)                Make it at least 27.11469pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11469pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
-
-[36]) (./parts/Chapter5.tex
+[37]) (./parts/Chapter5.tex
 Overfull \hbox (3.18025pt too wide) in paragraph at lines 21--23
 \T2A/cmr/m/n/14.4 Отбор то-чек бу-дет про-из-вед пу-тем срав-не-ния ЗНА-ЧЕ-НИЯ 
 (ЗА-МЕ-НИТЬ)
@@ -1759,7 +1768,7 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[37]
+[38]
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 27.11469pt, for example:
@@ -1768,8 +1777,8 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[38]
-<./images/coco_dataset.png, id=459, 762.85pt x 357.335pt>
+[39]
+<./images/coco_dataset.png, id=479, 762.85pt x 357.335pt>
 File: ./images/coco_dataset.png Graphic file (type png)
 <use ./images/coco_dataset.png>
 Package pdftex.def Info: ./images/coco_dataset.png  used on input line 68.
@@ -1783,21 +1792,12 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[39 <./images/coco_dataset.png>]
+[40 <./images/coco_dataset.png>]
 Overfull \hbox (2.45947pt too wide) in paragraph at lines 89--90
 []\T2A/cmr/m/it/14.4 area \T2A/cmr/m/n/14.4 пло-щадь сег-мен-ти-ро-ван-но-го че
 -ло-ве-ка. Зна-че-ние необ-хо-ди-мо при
  []
 
-
-Package fancyhdr Warning: \headheight is too small (14.0pt): 
-(fancyhdr)                Make it at least 27.11469pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11469pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
-
-[40]
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 27.11469pt, for example:
@@ -1815,7 +1815,7 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[42]) (./parts/Chapter6.tex
+[42]
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 27.11469pt, for example:
@@ -1824,7 +1824,16 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[43]) (./main.bbl
+[43]) (./parts/Chapter6.tex
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 27.11469pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.11469pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
+
+[44]) (./main.bbl
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
 15.
  (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
@@ -1878,7 +1887,7 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[44]
+[45]
 Underfull \hbox (badness 1484) in paragraph at lines 72--77
 \T2A/cmr/m/n/14.4 Networks / Alexander Toshev, Christian Szegedy // 2014 IEEE
  []
@@ -1920,26 +1929,21 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[45]
-Underfull \hbox (badness 1325) in paragraph at lines 125--130
+[46]
+Underfull \hbox (badness 1253) in paragraph at lines 139--142
+[]\T2A/cmr/m/n/14.4 Yolox: Exceeding yolo series in 2021 / Zheng Ge, Songtao Li
+u,
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 164--169
 \T2A/cmr/m/n/14.4 Tracking / Qiangqiang Wu, Jia Wan, Antoni B. Chan // 2021
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 152--156
+Underfull \hbox (badness 1043) in paragraph at lines 190--194
 \T2A/cmr/m/n/14.4 Analysis / Mykhaylo Andriluka, Leonid Pishchulin, Peter Gehle
 r,
- []
-
-
-Underfull \hbox (badness 1867) in paragraph at lines 173--178
-[]\T2A/cmr/m/n/14.4 Deep Learning Models for Classification of Red Blood Cells 
-in
- []
-
-
-Underfull \hbox (badness 3108) in paragraph at lines 173--178
-\T2A/cmr/m/n/14.4 Microscopy Images to Aid in Sickle Cell Anemia Diagnosis /
  []
 
 
@@ -1950,10 +1954,15 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[46]
-Underfull \hbox (badness 1253) in paragraph at lines 199--202
-[]\T2A/cmr/m/n/14.4 Yolox: Exceeding yolo series in 2021 / Zheng Ge, Songtao Li
-u,
+[47]
+Underfull \hbox (badness 1867) in paragraph at lines 211--216
+[]\T2A/cmr/m/n/14.4 Deep Learning Models for Classification of Red Blood Cells 
+in
+ []
+
+
+Underfull \hbox (badness 3108) in paragraph at lines 211--216
+\T2A/cmr/m/n/14.4 Microscopy Images to Aid in Sickle Cell Anemia Diagnosis /
  []
 
 )
@@ -1965,42 +1974,40 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.11469pt}.
 
-[47] (./main.aux)
+[48] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1805944CB8BA56E1035C1376CF8A8736;4426.
+(rerunfilecheck)             Checksum: A5132E6C40C5690589C6ED2064E23B99;4426.
  ) 
 Here is how much of TeX's memory you used:
- 27605 strings out of 478287
- 512025 string characters out of 5849289
- 776253 words of memory out of 5000000
- 45028 multiletter control sequences out of 15000+600000
- 483412 words of font info for 58 fonts, out of 8000000 for 9000
+ 27634 strings out of 478287
+ 512495 string characters out of 5849289
+ 776422 words of memory out of 5000000
+ 45049 multiletter control sequences out of 15000+600000
+ 483753 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,12n,92p,2029b,542s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfb
-x1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/shar
-e/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/
-public/cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm
-1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share
-/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/p
-ublic/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1
-440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1728.pfb></usr/share/
-texmf/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on main.pdf (47 pages, 3760648 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/share/texmf
+/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/sha
+re/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1
+/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfb
+x2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/shar
+e/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/
+public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm
+2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb></usr/share
+/texmf/fonts/type1/public/cm-super/sfti1728.pfb></usr/share/texmf/fonts/type1/p
+ublic/cm-super/sftt1440.pfb>
+Output written on main.pdf (48 pages, 4025115 bytes).
 PDF statistics:
- 631 PDF objects out of 1000 (max. 8388607)
- 516 compressed objects within 6 object streams
- 173 named destinations out of 1000 (max. 500000)
- 277 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 655 PDF objects out of 1000 (max. 8388607)
+ 536 compressed objects within 6 object streams
+ 178 named destinations out of 1000 (max. 500000)
+ 282 words of extra memory for PDF output out of 10000 (max. 10000000)
 

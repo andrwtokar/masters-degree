@@ -120,6 +120,45 @@ Vi{TP}ose: Simple Vision Transformer Baselines for Human Pose Estimation~/
   Human Pose Estimation. ---
 \newblock 2021.
 
+\bibitem{yolo_pose}
+\selectlanguageifdefined{english}
+Yolo-pose: Enhancing yolo for multi person pose estimation using object
+  keypoint similarity loss~/ Debapriya~Maji, Soyeb~Nagori, Manu~Mathew,
+  Deepak~Poddar~// Proceedings of the IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition. ---
+\newblock 2022. ---
+\newblock Pp.~2637--2646.
+
+\bibitem{yolo8}
+\selectlanguageifdefined{english}
+\BibEmph{Reis,~Dillon}. Real-Time Flying Object Detection with YOLOv8. ---
+\newblock 2024.
+
+\bibitem{yolox}
+\selectlanguageifdefined{english}
+Yolox: Exceeding yolo series in 2021~/ Zheng~Ge, Songtao~Liu, Feng~Wang
+  et~al.~// \BibEmph{arXiv preprint arXiv:2107.08430}. ---
+\newblock 2021.
+
+\bibitem{rtmpose}
+\selectlanguageifdefined{english}
+\BibEmph{Jiang,~Tao}. RTMPose: Real-Time Multi-Person Pose Estimation based on
+  MMPose. ---
+\newblock 2023. \BibUrl{ https://arxiv.org/abs/2303.07399}.
+
+\bibitem{mmpose}
+\selectlanguageifdefined{english}
+\BibEmph{Contributors,~MMPose}. OpenMMLab Pose Estimation Toolbox and
+  Benchmark. ---
+\newblock \url{https://github.com/open-mmlab/mmpose}. ---
+\newblock 2020.
+
+\bibitem{rtmdet}
+\selectlanguageifdefined{english}
+\BibEmph{Lyu,~Chengqi}. RTMDet: An Empirical Study of Designing Real-Time
+  Object Detectors. ---
+\newblock 2022.
+
 \bibitem{pul}
 \selectlanguageifdefined{english}
 \BibEmph{Wu,~Qiangqiang}. Progressive Unsupervised Learning for Visual Object
@@ -134,18 +173,17 @@ Vi{TP}ose: Simple Vision Transformer Baselines for Human Pose Estimation~/
   Fine-tuning. ---
 \newblock 2017.
 
+\bibitem{regda}
+\selectlanguageifdefined{english}
+\BibEmph{Jiang,~Junguang}. Regressive Domain Adaptation for Unsupervised
+  Keypoint Detection. ---
+\newblock 2021.
+
 \bibitem{pose_markup}
 \selectlanguageifdefined{english}
 \BibEmph{Tokarew,~Andrey}. Полуавтоматическая система
   разметки ключевых точек. ---
 \newblock \url{https://github.com/andrwtokar/pose-markup}.
-
-\bibitem{mmpose2020}
-\selectlanguageifdefined{english}
-\BibEmph{Contributors,~MMPose}. OpenMMLab Pose Estimation Toolbox and
-  Benchmark. ---
-\newblock \url{https://github.com/open-mmlab/mmpose}. ---
-\newblock 2020.
 
 \bibitem{MPII_dataset}
 \selectlanguageifdefined{english}
@@ -184,25 +222,5 @@ Domain Adaptation: Challenges, Methods, Datasets, and Applications~/
 \newblock 2023. ---
 \newblock Vol.~11. ---
 \newblock Pp.~6973--7020.
-
-\bibitem{yolo_pose}
-\selectlanguageifdefined{english}
-Yolo-pose: Enhancing yolo for multi person pose estimation using object
-  keypoint similarity loss~/ Debapriya~Maji, Soyeb~Nagori, Manu~Mathew,
-  Deepak~Poddar~// Proceedings of the IEEE/CVF Conference on Computer Vision
-  and Pattern Recognition. ---
-\newblock 2022. ---
-\newblock Pp.~2637--2646.
-
-\bibitem{yolox}
-\selectlanguageifdefined{english}
-Yolox: Exceeding yolo series in 2021~/ Zheng~Ge, Songtao~Liu, Feng~Wang
-  et~al.~// \BibEmph{arXiv preprint arXiv:2107.08430}. ---
-\newblock 2021.
-
-\bibitem{yolo8}
-\selectlanguageifdefined{english}
-\BibEmph{Reis,~Dillon}. Real-Time Flying Object Detection with YOLOv8. ---
-\newblock 2024.
 
 \end{thebibliography}

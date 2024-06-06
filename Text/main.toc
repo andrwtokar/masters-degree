@@ -10,10 +10,10 @@
 \contentsline {subsection}{\numberline {4.3}Классификация методов доменной адаптации}{19}{subsection.4.3}%
 \contentsline {section}{\numberline {5}Обзор существующих решений}{24}{section.5}%
 \contentsline {subsection}{\numberline {5.1}Обзор моделей для распознавания ключевых точек}{24}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Обзор методов доменной адаптации на неразмеченных данных}{33}{subsection.5.2}%
-\contentsline {section}{\numberline {6}Эксперимент}{37}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Описание эксперимента}{37}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Данные}{39}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Результаты эксперимента}{42}{subsection.6.3}%
-\contentsline {section}{\numberline {7}Заключение}{43}{section.7}%
-\contentsline {section}{Список литературы}{44}{section*.38}%
+\contentsline {subsection}{\numberline {5.2}Обзор методов доменной адаптации на неразмеченных данных}{34}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Эксперимент}{38}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Описание эксперимента}{38}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Данные}{40}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Результаты эксперимента}{43}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Заключение}{44}{section.7}%
+\contentsline {section}{Список литературы}{45}{section*.39}%
