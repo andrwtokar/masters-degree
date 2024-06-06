@@ -185,4 +185,24 @@ Domain Adaptation: Challenges, Methods, Datasets, and Applications~/
 \newblock Vol.~11. ---
 \newblock Pp.~6973--7020.
 
+\bibitem{yolo_pose}
+\selectlanguageifdefined{english}
+Yolo-pose: Enhancing yolo for multi person pose estimation using object
+  keypoint similarity loss~/ Debapriya~Maji, Soyeb~Nagori, Manu~Mathew,
+  Deepak~Poddar~// Proceedings of the IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition. ---
+\newblock 2022. ---
+\newblock Pp.~2637--2646.
+
+\bibitem{yolox}
+\selectlanguageifdefined{english}
+Yolox: Exceeding yolo series in 2021~/ Zheng~Ge, Songtao~Liu, Feng~Wang
+  et~al.~// \BibEmph{arXiv preprint arXiv:2107.08430}. ---
+\newblock 2021.
+
+\bibitem{yolo8}
+\selectlanguageifdefined{english}
+\BibEmph{Reis,~Dillon}. Real-Time Flying Object Detection with YOLOv8. ---
+\newblock 2024.
+
 \end{thebibliography}
