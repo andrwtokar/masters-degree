@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.26)  6 MAY 2024 17:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.26)  7 JUN 2024 13:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -158,631 +158,9 @@ l.1 \section{Эксперимент
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-
-! LaTeX Error: Unicode character В (U+0412)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В
-       данной главе будет описан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character д (U+0434)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В д
-         анной главе будет описан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character а (U+0430)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В да
-           нной главе будет описан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character н (U+043D)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В дан
-             ной главе будет описан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character н (U+043D)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В данн
-               ой главе будет описан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character о (U+043E)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В данно
-                 й главе будет описан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character й (U+0439)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В данной
-                    главе будет описан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character г (U+0433)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В данной г
-                      лаве будет описан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character л (U+043B)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В данной гл
-                        аве будет описан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character а (U+0430)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В данной гла
-                          ве будет описан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character в (U+0432)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В данной глав
-                            е будет описан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character е (U+0435)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В данной главе
-                               будет описан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character б (U+0431)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В данной главе б
-                                 удет описан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character у (U+0443)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В данной главе бу
-                                   дет описан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character д (U+0434)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В данной главе буд
-                                     ет описан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character е (U+0435)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В данной главе буде
-                                       т описан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character т (U+0442)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В данной главе будет
-                                          описан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character о (U+043E)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В данной главе будет о
-                                            писан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character п (U+043F)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В данной главе будет оп
-                                              исан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character и (U+0438)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В данной главе будет опи
-                                                сан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character с (U+0441)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 В данной главе будет опис
-                                                  ан эксперимен�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character а (U+0430)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...анной главе будет описа
-                                                  н эксперимент,...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character н (U+043D)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...нной главе будет описан
-                                                   эксперимент, �...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character э (U+044D)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...�ой главе будет описан э
-                                                  ксперимент, ка...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character к (U+043A)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...�й главе будет описан эк
-                                                  сперимент, как...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character с (U+0441)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...� главе будет описан экс
-                                                  перимент, как �...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character п (U+043F)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...главе будет описан эксп
-                                                  еримент, как т�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character е (U+0435)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...лаве будет описан экспе
-                                                  римент, как та�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character р (U+0440)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...аве будет описан экспер
-                                                  имент, как так�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character и (U+0438)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...ве будет описан экспери
-                                                  мент, как тако�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character м (U+043C)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...е будет описан эксперим
-                                                  ент, как таков�...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character е (U+0435)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ... будет описан экспериме
-                                                  нт, как таковой.
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character н (U+043D)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...�удет описан эксперимен
-                                                  т, как таковой.
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character т (U+0442)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...�дет описан эксперимент
-                                                  , как таковой.
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...дет описан эксперимент,
-                                                   как таковой.
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no , in font nullfont!
-
-! LaTeX Error: Unicode character к (U+043A)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...�т описан эксперимент, к
-                                                  ак таковой.
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character а (U+0430)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...� описан эксперимент, ка
-                                                  к таковой.
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character к (U+043A)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...описан эксперимент, как
-                                                   таковой.
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character т (U+0442)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...�исан эксперимент, как т
-                                                  аковой.
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character а (U+0430)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...�сан эксперимент, как та
-                                                  ковой.
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character к (U+043A)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...�ан эксперимент, как так
-                                                  овой.
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character о (U+043E)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...�н эксперимент, как тако
-                                                  вой.
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character в (U+0432)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...� эксперимент, как таков
-                                                  ой.
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character о (U+043E)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...эксперимент, как таково
-                                                  й.
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character й (U+0439)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...ксперимент, как таковой
-                                                  .
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no . in font nullfont!
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 4--5
-[]
- []
-
 ! Undefined control sequence.
-l.6 \subsection
-               {Описание деталей эксперимента}
+l.4 \subsection
+               {Описание эксперимента}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -797,8 +175,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 \subsection{О
-                  писание деталей эксперимента}
+l.4 \subsection{О
+                  писание эксперимента}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -810,8 +188,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 \subsection{Оп
-                    исание деталей эксперимента}
+l.4 \subsection{Оп
+                    исание эксперимента}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -823,8 +201,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 \subsection{Опи
-                      сание деталей эксперимента}
+l.4 \subsection{Опи
+                      сание эксперимента}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -836,8 +214,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 \subsection{Опис
-                        ание деталей эксперимента}
+l.4 \subsection{Опис
+                        ание эксперимента}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -849,8 +227,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 \subsection{Описа
-                          ние деталей эксперимента}
+l.4 \subsection{Описа
+                          ние эксперимента}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -862,8 +240,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 \subsection{Описан
-                            ие деталей эксперимента}
+l.4 \subsection{Описан
+                            ие эксперимента}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -875,8 +253,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 \subsection{Описани
-                              е деталей эксперимента}
+l.4 \subsection{Описани
+                              е эксперимента}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -888,99 +266,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 \subsection{Описание
-                                 деталей эксперимента}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character д (U+0434)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 \subsection{Описание д
-                                   еталей эксперимента}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character е (U+0435)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 \subsection{Описание де
-                                     талей эксперимента}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character т (U+0442)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 \subsection{Описание дет
-                                       алей эксперимента}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character а (U+0430)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 \subsection{Описание дета
-                                         лей эксперимента}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character л (U+043B)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 \subsection{Описание детал
-                                           ей эксперимента}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character е (U+0435)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 \subsection{Описание детале
-                                             й эксперимента}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character й (U+0439)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 \subsection{Описание деталей
-                                                эксперимента}
+l.4 \subsection{Описание
+                                 эксперимента}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -992,8 +279,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 \subsection{Описание деталей э
-                                                  ксперимента}
+l.4 \subsection{Описание э
+                                   ксперимента}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1005,8 +292,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 ...ection{Описание деталей эк
-                                                  сперимента}
+l.4 \subsection{Описание эк
+                                     сперимента}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1018,8 +305,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 ...tion{Описание деталей экс
-                                                  перимента}
+l.4 \subsection{Описание экс
+                                       перимента}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1031,8 +318,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 ...on{Описание деталей эксп
-                                                  еримента}
+l.4 \subsection{Описание эксп
+                                         еримента}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1044,8 +331,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 ...{Описание деталей экспе
-                                                  римента}
+l.4 \subsection{Описание экспе
+                                           римента}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1057,8 +344,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 ...�писание деталей экспер
-                                                  имента}
+l.4 \subsection{Описание экспер
+                                             имента}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1070,8 +357,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 ...�исание деталей экспери
-                                                  мента}
+l.4 \subsection{Описание экспери
+                                               мента}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1083,8 +370,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 ...�сание деталей эксперим
-                                                  ента}
+l.4 \subsection{Описание эксперим
+                                                 ента}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1096,7 +383,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 ...�ание деталей экспериме
+l.4 ...section{Описание экспериме
                                                   нта}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1109,7 +396,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 ...�ние деталей эксперимен
+l.4 ...ction{Описание эксперимен
                                                   та}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1122,7 +409,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 ...�ие деталей эксперимент
+l.4 ...ion{Описание эксперимент
                                                   а}
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1135,7 +422,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 ...�е деталей эксперимента
+l.4 ...n{Описание эксперимента
                                                   }
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1148,7 +435,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 П
+l.6 П
       остановка эксперимента. Что планирует...
 
 You may provide a definition with
@@ -1162,7 +449,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 По
+l.6 По
         становка эксперимента. Что планирует...
 
 You may provide a definition with
@@ -1176,7 +463,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пос
+l.6 Пос
           тановка эксперимента. Что планирует...
 
 You may provide a definition with
@@ -1190,7 +477,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Пост
+l.6 Пост
             ановка эксперимента. Что планирует...
 
 You may provide a definition with
@@ -1204,7 +491,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Поста
+l.6 Поста
               новка эксперимента. Что планирует...
 
 You may provide a definition with
@@ -1218,7 +505,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постан
+l.6 Постан
                 овка эксперимента. Что планирует...
 
 You may provide a definition with
@@ -1232,7 +519,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постано
+l.6 Постано
                   вка эксперимента. Что планирует...
 
 You may provide a definition with
@@ -1246,7 +533,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постанов
+l.6 Постанов
                     ка эксперимента. Что планирует...
 
 You may provide a definition with
@@ -1260,7 +547,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постановк
+l.6 Постановк
                       а эксперимента. Что планирует...
 
 You may provide a definition with
@@ -1274,7 +561,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постановка
+l.6 Постановка
                          эксперимента. Что планирует...
 
 You may provide a definition with
@@ -1288,7 +575,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постановка э
+l.6 Постановка э
                            ксперимента. Что планирует...
 
 You may provide a definition with
@@ -1302,7 +589,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постановка эк
+l.6 Постановка эк
                              сперимента. Что планирует...
 
 You may provide a definition with
@@ -1316,7 +603,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постановка экс
+l.6 Постановка экс
                                перимента. Что планирует...
 
 You may provide a definition with
@@ -1330,7 +617,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постановка эксп
+l.6 Постановка эксп
                                  еримента. Что планирует...
 
 You may provide a definition with
@@ -1344,7 +631,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постановка экспе
+l.6 Постановка экспе
                                    римента. Что планирует...
 
 You may provide a definition with
@@ -1358,7 +645,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постановка экспер
+l.6 Постановка экспер
                                      имента. Что планирует...
 
 You may provide a definition with
@@ -1372,7 +659,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постановка экспери
+l.6 Постановка экспери
                                        мента. Что планирует...
 
 You may provide a definition with
@@ -1386,7 +673,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постановка эксперим
+l.6 Постановка эксперим
                                          ента. Что планирует...
 
 You may provide a definition with
@@ -1400,7 +687,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постановка экспериме
+l.6 Постановка экспериме
                                            нта. Что планирует...
 
 You may provide a definition with
@@ -1414,7 +701,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постановка эксперимен
+l.6 Постановка эксперимен
                                              та. Что планирует...
 
 You may provide a definition with
@@ -1428,7 +715,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постановка эксперимент
+l.6 Постановка эксперимент
                                                а. Что планирует...
 
 You may provide a definition with
@@ -1442,7 +729,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постановка эксперимента
+l.6 Постановка эксперимента
                                                  . Что планирует...
 
 You may provide a definition with
@@ -1455,7 +742,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Постановка эксперимента.
+l.6 Постановка эксперимента.
                                                    Что планирует...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1470,7 +757,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...тановка эксперимента. Ч
+l.6 ...тановка эксперимента. Ч
                                                   то планируетс�...
 
 You may provide a definition with
@@ -1484,7 +771,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...ановка эксперимента. Чт
+l.6 ...ановка эксперимента. Чт
                                                   о планируется ...
 
 You may provide a definition with
@@ -1498,7 +785,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...новка эксперимента. Что
+l.6 ...новка эксперимента. Что
                                                    планируется с...
 
 You may provide a definition with
@@ -1512,7 +799,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�вка эксперимента. Что п
+l.6 ...�вка эксперимента. Что п
                                                   ланируется сд�...
 
 You may provide a definition with
@@ -1526,7 +813,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ка эксперимента. Что пл
+l.6 ...�ка эксперимента. Что пл
                                                   анируется сде�...
 
 You may provide a definition with
@@ -1540,7 +827,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�а эксперимента. Что пла
+l.6 ...�а эксперимента. Что пла
                                                   нируется сдел�...
 
 You may provide a definition with
@@ -1554,7 +841,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...� эксперимента. Что план
+l.6 ...� эксперимента. Что план
                                                   ируется сдела�...
 
 You may provide a definition with
@@ -1568,7 +855,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...эксперимента. Что плани
+l.6 ...эксперимента. Что плани
                                                   руется сделат�...
 
 You may provide a definition with
@@ -1582,7 +869,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...ксперимента. Что планир
+l.6 ...ксперимента. Что планир
                                                   уется сделать ...
 
 You may provide a definition with
@@ -1596,7 +883,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...сперимента. Что планиру
+l.6 ...сперимента. Что планиру
                                                   ется сделать и...
 
 You may provide a definition with
@@ -1610,7 +897,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...перимента. Что планируе
+l.6 ...перимента. Что планируе
                                                   тся сделать и �...
 
 You may provide a definition with
@@ -1624,7 +911,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...еримента. Что планирует
+l.6 ...еримента. Что планирует
                                                   ся сделать и к�...
 
 You may provide a definition with
@@ -1638,7 +925,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...римента. Что планируетс
+l.6 ...римента. Что планируетс
                                                   я сделать и ка�...
 
 You may provide a definition with
@@ -1652,7 +939,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...имента. Что планируется
+l.6 ...имента. Что планируется
                                                    сделать и как�...
 
 You may provide a definition with
@@ -1666,7 +953,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ента. Что планируется с
+l.6 ...�ента. Что планируется с
                                                   делать и какие...
 
 You may provide a definition with
@@ -1680,7 +967,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�нта. Что планируется сд
+l.6 ...�нта. Что планируется сд
                                                   елать и какие �...
 
 You may provide a definition with
@@ -1694,7 +981,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�та. Что планируется сде
+l.6 ...�та. Что планируется сде
                                                   лать и какие р�...
 
 You may provide a definition with
@@ -1708,7 +995,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�а. Что планируется сдел
+l.6 ...�а. Что планируется сдел
                                                   ать и какие ре�...
 
 You may provide a definition with
@@ -1722,7 +1009,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�. Что планируется сдела
+l.6 ...�. Что планируется сдела
                                                   ть и какие рез�...
 
 You may provide a definition with
@@ -1736,7 +1023,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ... Что планируется сделат
+l.6 ... Что планируется сделат
                                                   ь и какие резу�...
 
 You may provide a definition with
@@ -1750,7 +1037,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�то планируется сделать
+l.6 ...�то планируется сделать
                                                    и какие резул�...
 
 You may provide a definition with
@@ -1764,7 +1051,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...о планируется сделать и
+l.6 ...о планируется сделать и
                                                    какие результ...
 
 You may provide a definition with
@@ -1778,7 +1065,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...планируется сделать и к
+l.6 ...планируется сделать и к
                                                   акие результа�...
 
 You may provide a definition with
@@ -1792,7 +1079,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...ланируется сделать и ка
+l.6 ...ланируется сделать и ка
                                                   кие результат�...
 
 You may provide a definition with
@@ -1806,7 +1093,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...анируется сделать и как
+l.6 ...анируется сделать и как
                                                   ие результаты ...
 
 You may provide a definition with
@@ -1820,7 +1107,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...нируется сделать и каки
+l.6 ...нируется сделать и каки
                                                   е результаты х...
 
 You may provide a definition with
@@ -1834,7 +1121,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...ируется сделать и какие
+l.6 ...ируется сделать и какие
                                                    результаты хо...
 
 You may provide a definition with
@@ -1848,7 +1135,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�уется сделать и какие р
+l.6 ...�уется сделать и какие р
                                                   езультаты хоч�...
 
 You may provide a definition with
@@ -1862,7 +1149,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ется сделать и какие ре
+l.6 ...�ется сделать и какие ре
                                                   зультаты хоче�...
 
 You may provide a definition with
@@ -1876,7 +1163,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�тся сделать и какие рез
+l.6 ...�тся сделать и какие рез
                                                   ультаты хочет�...
 
 You may provide a definition with
@@ -1890,7 +1177,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ся сделать и какие резу
+l.6 ...�ся сделать и какие резу
                                                   льтаты хочетс�...
 
 You may provide a definition with
@@ -1904,7 +1191,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�я сделать и какие резул
+l.6 ...�я сделать и какие резул
                                                   ьтаты хочется ...
 
 You may provide a definition with
@@ -1918,7 +1205,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...� сделать и какие резуль
+l.6 ...� сделать и какие резуль
                                                   таты хочется п...
 
 You may provide a definition with
@@ -1932,7 +1219,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...сделать и какие результ
+l.6 ...сделать и какие результ
                                                   аты хочется по...
 
 You may provide a definition with
@@ -1946,7 +1233,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...делать и какие результа
+l.6 ...делать и какие результа
                                                   ты хочется пол...
 
 You may provide a definition with
@@ -1960,7 +1247,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...елать и какие результат
+l.6 ...елать и какие результат
                                                   ы хочется полу...
 
 You may provide a definition with
@@ -1974,7 +1261,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...лать и какие результаты
+l.6 ...лать и какие результаты
                                                    хочется получ...
 
 You may provide a definition with
@@ -1988,7 +1275,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ть и какие результаты х
+l.6 ...�ть и какие результаты х
                                                   очется получи�...
 
 You may provide a definition with
@@ -2002,7 +1289,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ь и какие результаты хо
+l.6 ...�ь и какие результаты хо
                                                   чется получит�...
 
 You may provide a definition with
@@ -2016,7 +1303,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...� и какие результаты хоч
+l.6 ...� и какие результаты хоч
                                                   ется получить....
 
 You may provide a definition with
@@ -2030,7 +1317,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...и какие результаты хоче
+l.6 ...и какие результаты хоче
                                                   тся получить. �...
 
 You may provide a definition with
@@ -2044,7 +1331,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ... какие результаты хочет
+l.6 ... какие результаты хочет
                                                   ся получить. К�...
 
 You may provide a definition with
@@ -2058,7 +1345,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�акие результаты хочетс
+l.6 ...�акие результаты хочетс
                                                   я получить. Ка�...
 
 You may provide a definition with
@@ -2072,7 +1359,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�кие результаты хочется
+l.6 ...�кие результаты хочется
                                                    получить. Как�...
 
 You may provide a definition with
@@ -2086,7 +1373,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...ие результаты хочется п
+l.6 ...ие результаты хочется п
                                                   олучить. Какие...
 
 You may provide a definition with
@@ -2100,7 +1387,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...е результаты хочется по
+l.6 ...е результаты хочется по
                                                   лучить. Какие �...
 
 You may provide a definition with
@@ -2114,7 +1401,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ... результаты хочется пол
+l.6 ... результаты хочется пол
                                                   учить. Какие м�...
 
 You may provide a definition with
@@ -2128,7 +1415,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�езультаты хочется полу
+l.6 ...�езультаты хочется полу
                                                   чить. Какие ме�...
 
 You may provide a definition with
@@ -2142,7 +1429,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�зультаты хочется получ
+l.6 ...�зультаты хочется получ
                                                   ить. Какие мет�...
 
 You may provide a definition with
@@ -2156,7 +1443,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ультаты хочется получи
+l.6 ...�ультаты хочется получи
                                                   ть. Какие метр�...
 
 You may provide a definition with
@@ -2170,7 +1457,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�льтаты хочется получит
+l.6 ...�льтаты хочется получит
                                                   ь. Какие метри�...
 
 You may provide a definition with
@@ -2184,7 +1471,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ьтаты хочется получить
+l.6 ...�ьтаты хочется получить
                                                   . Какие метрик�...
 
 You may provide a definition with
@@ -2199,7 +1486,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�аты хочется получить. К
+l.6 ...�аты хочется получить. К
                                                   акие метрики б...
 
 You may provide a definition with
@@ -2213,7 +1500,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ты хочется получить. Ка
+l.6 ...�ты хочется получить. Ка
                                                   кие метрики бу...
 
 You may provide a definition with
@@ -2227,7 +1514,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ы хочется получить. Как
+l.6 ...�ы хочется получить. Как
                                                   ие метрики буд...
 
 You may provide a definition with
@@ -2241,7 +1528,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...� хочется получить. Каки
+l.6 ...� хочется получить. Каки
                                                   е метрики буде...
 
 You may provide a definition with
@@ -2255,7 +1542,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...хочется получить. Какие
+l.6 ...хочется получить. Какие
                                                    метрики будем...
 
 You may provide a definition with
@@ -2269,7 +1556,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�чется получить. Какие м
+l.6 ...�чется получить. Какие м
                                                   етрики будем и...
 
 You may provide a definition with
@@ -2283,7 +1570,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ется получить. Какие ме
+l.6 ...�ется получить. Какие ме
                                                   трики будем ис...
 
 You may provide a definition with
@@ -2297,7 +1584,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�тся получить. Какие мет
+l.6 ...�тся получить. Какие мет
                                                   рики будем исп...
 
 You may provide a definition with
@@ -2311,7 +1598,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ся получить. Какие метр
+l.6 ...�ся получить. Какие метр
                                                   ики будем испо...
 
 You may provide a definition with
@@ -2325,7 +1612,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�я получить. Какие метри
+l.6 ...�я получить. Какие метри
                                                   ки будем испол...
 
 You may provide a definition with
@@ -2339,7 +1626,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...� получить. Какие метрик
+l.6 ...� получить. Какие метрик
                                                   и будем исполь...
 
 You may provide a definition with
@@ -2353,7 +1640,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...получить. Какие метрики
+l.6 ...получить. Какие метрики
                                                    будем использ...
 
 You may provide a definition with
@@ -2367,7 +1654,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�лучить. Какие метрики б
+l.6 ...�лучить. Какие метрики б
                                                   удем использо�...
 
 You may provide a definition with
@@ -2381,7 +1668,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�учить. Какие метрики бу
+l.6 ...�учить. Какие метрики бу
                                                   дем использов�...
 
 You may provide a definition with
@@ -2395,7 +1682,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�чить. Какие метрики буд
+l.6 ...�чить. Какие метрики буд
                                                   ем использова�...
 
 You may provide a definition with
@@ -2409,7 +1696,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ить. Какие метрики буде
+l.6 ...�ить. Какие метрики буде
                                                   м использоват�...
 
 You may provide a definition with
@@ -2423,7 +1710,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ть. Какие метрики будем
+l.6 ...�ть. Какие метрики будем
                                                    использовать ...
 
 You may provide a definition with
@@ -2437,7 +1724,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...ь. Какие метрики будем и
+l.6 ...ь. Какие метрики будем и
                                                   спользовать и ...
 
 You may provide a definition with
@@ -2451,7 +1738,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 .... Какие метрики будем ис
+l.6 .... Какие метрики будем ис
                                                   пользовать и п...
 
 You may provide a definition with
@@ -2465,7 +1752,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...Какие метрики будем исп
+l.6 ...Какие метрики будем исп
                                                   ользовать и по...
 
 You may provide a definition with
@@ -2479,7 +1766,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...акие метрики будем испо
+l.6 ...акие метрики будем испо
                                                   льзовать и по �...
 
 You may provide a definition with
@@ -2493,7 +1780,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...кие метрики будем испол
+l.6 ...кие метрики будем испол
                                                   ьзовать и по к�...
 
 You may provide a definition with
@@ -2507,7 +1794,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...ие метрики будем исполь
+l.6 ...ие метрики будем исполь
                                                   зовать и по ка�...
 
 You may provide a definition with
@@ -2521,7 +1808,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...е метрики будем использ
+l.6 ...е метрики будем использ
                                                   овать и по как�...
 
 You may provide a definition with
@@ -2535,7 +1822,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ... метрики будем использо
+l.6 ... метрики будем использо
                                                   вать и по каки�...
 
 You may provide a definition with
@@ -2549,7 +1836,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�етрики будем использов
+l.6 ...�етрики будем использов
                                                   ать и по каким ...
 
 You may provide a definition with
@@ -2563,7 +1850,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�трики будем использова
+l.6 ...�трики будем использова
                                                   ть и по каким м...
 
 You may provide a definition with
@@ -2577,7 +1864,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�рики будем использоват
+l.6 ...�рики будем использоват
                                                   ь и по каким ме...
 
 You may provide a definition with
@@ -2591,7 +1878,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ики будем использовать
+l.6 ...�ики будем использовать
                                                    и по каким мет...
 
 You may provide a definition with
@@ -2605,7 +1892,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...ки будем использовать и
+l.6 ...ки будем использовать и
                                                    по каким метр�...
 
 You may provide a definition with
@@ -2619,7 +1906,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...� будем использовать и п
+l.6 ...� будем использовать и п
                                                   о каким метрик...
 
 You may provide a definition with
@@ -2633,7 +1920,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...будем использовать и по
+l.6 ...будем использовать и по
                                                    каким метрика...
 
 You may provide a definition with
@@ -2647,7 +1934,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�дем использовать и по к
+l.6 ...�дем использовать и по к
                                                   аким метрикам ...
 
 You may provide a definition with
@@ -2661,7 +1948,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ем использовать и по ка
+l.6 ...�ем использовать и по ка
                                                   ким метрикам б...
 
 You may provide a definition with
@@ -2675,7 +1962,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�м использовать и по как
+l.6 ...�м использовать и по как
                                                   им метрикам бу...
 
 You may provide a definition with
@@ -2689,7 +1976,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...� использовать и по каки
+l.6 ...� использовать и по каки
                                                   м метрикам буд...
 
 You may provide a definition with
@@ -2703,7 +1990,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...использовать и по каким
+l.6 ...использовать и по каким
                                                    метрикам буде...
 
 You may provide a definition with
@@ -2717,7 +2004,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�пользовать и по каким м
+l.6 ...�пользовать и по каким м
                                                   етрикам будем ...
 
 You may provide a definition with
@@ -2731,7 +2018,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ользовать и по каким ме
+l.6 ...�ользовать и по каким ме
                                                   трикам будем с...
 
 You may provide a definition with
@@ -2745,7 +2032,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�льзовать и по каким мет
+l.6 ...�льзовать и по каким мет
                                                   рикам будем ср...
 
 You may provide a definition with
@@ -2759,7 +2046,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ьзовать и по каким метр
+l.6 ...�ьзовать и по каким метр
                                                   икам будем сра...
 
 You may provide a definition with
@@ -2773,7 +2060,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�зовать и по каким метри
+l.6 ...�зовать и по каким метри
                                                   кам будем срав...
 
 You may provide a definition with
@@ -2787,7 +2074,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�овать и по каким метрик
+l.6 ...�овать и по каким метрик
                                                   ам будем сравн...
 
 You may provide a definition with
@@ -2801,7 +2088,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�вать и по каким метрика
+l.6 ...�вать и по каким метрика
                                                   м будем сравни...
 
 You may provide a definition with
@@ -2815,7 +2102,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...�ать и по каким метрикам
+l.6 ...�ать и по каким метрикам
                                                    будем сравнив...
 
 You may provide a definition with
@@ -2829,7 +2116,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...ть и по каким метрикам б
+l.6 ...ть и по каким метрикам б
                                                   удем сравнива�...
 
 You may provide a definition with
@@ -2843,16 +2130,16 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...ь и по каким метрикам бу
+l.6 ...ь и по каким метрикам бу
                                                   дем сравнивать.
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 48 strings out of 478287
- 740 string characters out of 5849289
+ 45 strings out of 478287
+ 725 string characters out of 5849289
  289007 words of memory out of 5000000
- 18344 multiletter control sequences out of 15000+600000
+ 18341 multiletter control sequences out of 15000+600000
  469259 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 13i,0n,12p,335b,26s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 13i,0n,12p,335b,28s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 !  ==> Fatal error occurred, no output PDF file produced!

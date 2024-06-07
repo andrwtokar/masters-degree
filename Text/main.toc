@@ -1,19 +1,20 @@
 \babel@toc {russian}{}\relax 
-\contentsline {section}{\numberline {1}Введение}{4}{section.1}%
-\contentsline {section}{\numberline {2}Сверточные нейронные сети}{8}{section.2}%
-\contentsline {section}{\numberline {3}Распознавание ключевых точек}{9}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Ключевые точки}{9}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Распознавание ключевых точек на теле человека. Скелет человека}{11}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Domain Adaptation}{15}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Перенос знаний}{15}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Основные определения}{17}{subsection.4.2}%
+\contentsline {section}{\numberline {1}Введение}{3}{section.1}%
+\contentsline {section}{\numberline {2}Сверточные нейронные сети}{7}{section.2}%
+\contentsline {section}{\numberline {3}Распознавание ключевых точек}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Ключевые точки}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Формальная постановка задачи}{10}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Распознавание позы человека}{11}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Domain Adaptation}{14}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Перенос знаний}{14}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Основные определения}{16}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Классификация методов доменной адаптации}{19}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Обзор существующих решений}{24}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Обзор моделей для распознавания ключевых точек}{24}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Обзор методов доменной адаптации на неразмеченных данных}{34}{subsection.5.2}%
-\contentsline {section}{\numberline {6}Эксперимент}{38}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Описание эксперимента}{38}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Данные}{40}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Результаты эксперимента}{43}{subsection.6.3}%
-\contentsline {section}{\numberline {7}Заключение}{44}{section.7}%
-\contentsline {section}{Список литературы}{45}{section*.39}%
+\contentsline {section}{\numberline {5}Обзор существующих решений}{23}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Обзор моделей для распознавания ключевых точек}{23}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Обзор методов доменной адаптации на неразмеченных данных}{33}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Эксперимент}{37}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Описание эксперимента}{37}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Данные}{41}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Результаты эксперимента}{45}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Заключение}{47}{section.7}%
+\contentsline {section}{Список литературы}{48}{section*.43}%
