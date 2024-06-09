@@ -48,17 +48,6 @@ Player pose analysis in tennis video based on pose estimation~/
 \newblock Vol.~23, no.~8. ---
 \newblock Pp.~13498--13511.
 
-\bibitem{COCO_dataset}
-\selectlanguageifdefined{english}
-\BibEmph{Lin,~Tsung-Yi}. Microsoft COCO: Common Objects in Context. ---
-\newblock 2014. \BibUrl{ https://arxiv.org/abs/1405.0312}.
-
-\bibitem{COCO_topology}
-\selectlanguageifdefined{english}
-\BibEmph{Tsung-Yi~Lin~Matteo Ruggero~Ronchi,~Alexander~Kirillov}. COCO 2020
-  Keypoint Detection Task. ---
-\newblock \url{https://cocodataset.org/#keypoints-2020}.
-
 \bibitem{PDJR}
 \selectlanguageifdefined{english}
 Human Pose Estimation Using Body Parts Dependent Joint Regressors~/
@@ -80,6 +69,17 @@ Human Pose Estimation Using Body Parts Dependent Joint Regressors~/
 {RMPE}: Regional Multi-person Pose Estimation~/ Hao-Shu~Fang, Shuqin~Xie,
   Yu-Wing~Tai, Cewu~Lu~// ICCV. ---
 \newblock 2017.
+
+\bibitem{COCO_dataset}
+\selectlanguageifdefined{english}
+\BibEmph{Lin,~Tsung-Yi}. Microsoft COCO: Common Objects in Context. ---
+\newblock 2014. \BibUrl{ https://arxiv.org/abs/1405.0312}.
+
+\bibitem{COCO_topology}
+\selectlanguageifdefined{english}
+\BibEmph{Tsung-Yi~Lin~Matteo Ruggero~Ronchi,~Alexander~Kirillov}. COCO 2020
+  Keypoint Detection Task. ---
+\newblock \url{https://cocodataset.org/#keypoints-2020}.
 
 \bibitem{OpenPose}
 \selectlanguageifdefined{english}
@@ -175,44 +175,28 @@ Yolox: Exceeding yolo series in 2021~/ Zheng~Ge, Songtao~Liu, Feng~Wang
 
 \bibitem{regda}
 \selectlanguageifdefined{english}
-\BibEmph{Jiang,~Junguang}. Regressive Domain Adaptation for Unsupervised
-  Keypoint Detection. ---
+Regressive Domain Adaptation for Unsupervised Keypoint Detection~/
+  Junguang~Jiang, Yifei~Ji, Ximei~Wang et~al.~// CVPR. ---
 \newblock 2021.
+
+\bibitem{uda}
+\selectlanguageifdefined{english}
+A Unified Framework for Domain Adaptive Pose Estimation~/ Donghyun~Kim,
+  Kaihong~Wang, Kate~Saenko et~al.~// The European Conference on Computer
+  Vision (ECCV). ---
+\newblock 2022.
+
+\bibitem{adain}
+\selectlanguageifdefined{english}
+\BibEmph{Huang,~Xun}. Arbitrary Style Transfer in Real-time with Adaptive
+  Instance Normalization~/ Xun~Huang, Serge~Belongie~// ICCV. ---
+\newblock 2017.
 
 \bibitem{pose_markup}
 \selectlanguageifdefined{english}
 \BibEmph{Tokarew,~Andrey}. Полуавтоматическая система
   разметки ключевых точек. ---
 \newblock \url{https://github.com/andrwtokar/pose-markup}.
-
-\bibitem{MPII_dataset}
-\selectlanguageifdefined{english}
-2D Human Pose Estimation: New Benchmark and State of the Art Analysis~/
-  Mykhaylo~Andriluka, Leonid~Pishchulin, Peter~Gehler, Bernt~Schiele~// IEEE
-  Conference on Computer Vision and Pattern Recognition (CVPR). ---
-\newblock 2014. --- June.
-
-\bibitem{LSP}
-\selectlanguageifdefined{english}
-\BibEmph{Johnson,~Sam}. Clustered Pose and Nonlinear Appearance Models for
-  Human Pose Estimation~/ Sam~Johnson, Mark~Everingham~// Proceedings of the
-  British Machine Vision Conference. ---
-\newblock 2010. ---
-\newblock doi:10.5244/C.24.12.
-
-\bibitem{wei2016cpm}
-\selectlanguageifdefined{english}
-Convolutional pose machines~/ Shih-En~Wei, Varun~Ramakrishna, Takeo~Kanade,
-  Yaser~Sheikh~// CVPR. ---
-\newblock 2016.
-
-\bibitem{electronics9030427}
-\selectlanguageifdefined{english}
-Deep Learning Models for Classification of Red Blood Cells in Microscopy Images
-  to Aid in Sickle Cell Anemia Diagnosis~/ Laith~Alzubaidi, Mohammed~A.~Fadhel,
-  Omran~Al-Shamma et~al.~// \BibEmph{Electronics}. ---
-\newblock 2020. ---
-\newblock Vol.~9, no.~3. \BibUrl{ https://www.mdpi.com/2079-9292/9/3/427}.
 
 \bibitem{IEEE_DA}
 \selectlanguageifdefined{english}
