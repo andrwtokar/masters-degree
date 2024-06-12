@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.26)  12 JUN 2024 17:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.26)  13 JUN 2024 02:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2144,18 +2144,18 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
 
 [55]
-<./images/results/rtmpose/rtmpose_pck.jpg, id=638, 1177.39874pt x 685.56125pt>
+<./images/results/rtmpose/rtmpose_pck.jpg, id=640, 1177.39874pt x 685.56125pt>
 File: ./images/results/rtmpose/rtmpose_pck.jpg Graphic file (type jpg)
 <use ./images/results/rtmpose/rtmpose_pck.jpg>
 Package pdftex.def Info: ./images/results/rtmpose/rtmpose_pck.jpg  used on inpu
-t line 423.
+t line 427.
 (pdftex.def)             Requested size: 432.48051pt x 251.82304pt.
-<./images/results/rtmpose/rtmpose_pck_small.jpg, id=639, 1178.4025pt x 684.5575
+<./images/results/rtmpose/rtmpose_pck_small.jpg, id=641, 1178.4025pt x 684.5575
 pt>
 File: ./images/results/rtmpose/rtmpose_pck_small.jpg Graphic file (type jpg)
 <use ./images/results/rtmpose/rtmpose_pck_small.jpg>
 Package pdftex.def Info: ./images/results/rtmpose/rtmpose_pck_small.jpg  used o
-n input line 429.
+n input line 433.
 (pdftex.def)             Requested size: 432.48051pt x 251.23499pt.
 
 
@@ -2168,20 +2168,6 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 [56 <./images/results/simcc/simcc_05_s.jpg> <./images/results/simcc/simcc_025_s
 .jpg>]
-Overfull \hbox (2.32805pt too wide) in paragraph at lines 445--445
- []|\T2A/cmr/m/n/14.4 PCK@0.05| 
- []
-
-
-Overfull \hbox (2.32805pt too wide) in paragraph at lines 445--445
- []|\T2A/cmr/m/n/14.4 PCK@0.25| 
- []
-
-
-Overfull \hbox (1.165pt too wide) in paragraph at lines 445--445
- []|\T2A/cmr/m/n/14.4 PCK@0.5| 
- []
-
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2192,18 +2178,34 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 [57 <./images/results/rtmpose/rtmpose_pck.jpg> <./images/results/rtmpose/rtmpos
 e_pck_small.jpg>]
-<./images/results/rtmpose/rtmpose_05_s.jpg, id=650, 877.3578pt x 425.6703pt>
+Overfull \hbox (2.32805pt too wide) in paragraph at lines 451--451
+ []|\T2A/cmr/m/n/14.4 PCK@0.05| 
+ []
+
+
+Overfull \hbox (2.32805pt too wide) in paragraph at lines 451--451
+ []|\T2A/cmr/m/n/14.4 PCK@0.25| 
+ []
+
+
+Overfull \hbox (1.165pt too wide) in paragraph at lines 451--451
+ []|\T2A/cmr/m/n/14.4 PCK@0.5| 
+ []
+
+<./images/results/rtmpose/rtmpose_05_s.jpg, id=656, 877.3578pt x 425.6703pt>
 File: ./images/results/rtmpose/rtmpose_05_s.jpg Graphic file (type jpg)
 <use ./images/results/rtmpose/rtmpose_05_s.jpg>
 Package pdftex.def Info: ./images/results/rtmpose/rtmpose_05_s.jpg  used on inp
-ut line 476.
+ut line 486.
 (pdftex.def)             Requested size: 364.19667pt x 176.69534pt.
-<./images/results/rtmpose/rtmpose_025_s.jpg, id=651, 877.3578pt x 425.6703pt>
+<./images/results/rtmpose/rtmpose_025_s.jpg, id=657, 877.3578pt x 425.6703pt>
 File: ./images/results/rtmpose/rtmpose_025_s.jpg Graphic file (type jpg)
 <use ./images/results/rtmpose/rtmpose_025_s.jpg>
 Package pdftex.def Info: ./images/results/rtmpose/rtmpose_025_s.jpg  used on in
-put line 482.
+put line 492.
 (pdftex.def)             Requested size: 364.19667pt x 176.69534pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
@@ -2214,6 +2216,15 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
 
 [58]
+Overfull \hbox (2.32805pt too wide) in paragraph at lines 509--509
+ []|\T2A/cmr/m/n/14.4 PCK@0.25| 
+ []
+
+
+Overfull \hbox (1.165pt too wide) in paragraph at lines 509--509
+ []|\T2A/cmr/m/n/14.4 PCK@0.5| 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2232,7 +2243,16 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
 
-[60]) (./main.bbl
+[60]
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[61]) (./main.bbl
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
 15.
  (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
@@ -2285,7 +2305,7 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
 
-[61]
+[62]
 Underfull \hbox (badness 1348) in paragraph at lines 69--72
 []\T2A/cmr/m/n/14.4 RMPE: Regional Multi-person Pose Estimation / Hao-Shu Fang,
 
@@ -2328,7 +2348,7 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
 
-[62]
+[63]
 Underfull \hbox (badness 1253) in paragraph at lines 139--142
 []\T2A/cmr/m/n/14.4 Yolox: Exceeding yolo series in 2021 / Zheng Ge, Songtao Li
 u,
@@ -2352,7 +2372,7 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
 
-[63])
+[64])
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2361,18 +2381,18 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
 
-[64] (./main.aux)
+[65] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 79376D91886F6C04B68CD9C91B0E989B;4243.
+(rerunfilecheck)             Checksum: 3093617E3ACEBD6B697754ACA1B8563E;4243.
  ) 
 Here is how much of TeX's memory you used:
- 28050 strings out of 478287
- 528235 string characters out of 5849289
- 783468 words of memory out of 5000000
- 45386 multiletter control sequences out of 15000+600000
+ 28054 strings out of 478287
+ 528295 string characters out of 5849289
+ 784645 words of memory out of 5000000
+ 45388 multiletter control sequences out of 15000+600000
  484965 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,12n,92p,1816b,711s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2394,10 +2414,10 @@ r/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1200.pfb></usr
 /share/texmf/fonts/type1/public/cm-super/sfti1440.pfb></usr/share/texmf/fonts/t
 ype1/public/cm-super/sfti1728.pfb></usr/share/texmf/fonts/type1/public/cm-super
 /sftt1440.pfb>
-Output written on main.pdf (64 pages, 7186040 bytes).
+Output written on main.pdf (65 pages, 7189839 bytes).
 PDF statistics:
- 813 PDF objects out of 1000 (max. 8388607)
- 646 compressed objects within 7 object streams
- 212 named destinations out of 1000 (max. 500000)
+ 825 PDF objects out of 1000 (max. 8388607)
+ 657 compressed objects within 7 object streams
+ 214 named destinations out of 1000 (max. 500000)
  402 words of extra memory for PDF output out of 10000 (max. 10000000)
 
