@@ -3,10 +3,9 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: gost71u.bst
 Database file #1: references.bib
-Warning--I didn't find a database entry for "regda_idea"
 You've used 29 entries,
             2674 wiz_defined-function locations,
-            782 strings with 10511 characters,
+            781 strings with 10501 characters,
 and the built_in function-call counts, 7479 in all, are:
 = -- 940
 > -- 230
@@ -45,4 +44,3 @@ warning$ -- 0
 while$ -- 30
 width$ -- 31
 write$ -- 416
-(There was 1 warning)
